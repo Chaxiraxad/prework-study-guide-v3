@@ -12,7 +12,7 @@ N/A
 ## Usage
 
 To access to the topics covered in this pre-work, open the Chrome Dev Tools by presing command+Option+I (MacOS) or control+Shift+I (Windows) and press console. Please, see image. 
-![list of topics](assets/prework-topics.png)
+![list of topics](assets/prework_topics.png)
 
 ## Credits
 
